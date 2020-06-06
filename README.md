@@ -16,7 +16,7 @@ Toolbar controls aren't supported at the moment as well).
 - handle control events (left/right mouse down/up, double click, mouse move, position changed).
 
 ### Demo programs
-[UI designer](https://yadi.sk/d/UuvpyS6TAaEahA)
+[UI designer](https://yadi.sk/d/UuvpyS6TAaEahA)  
 [Puzzles game](https://yadi.sk/d/e05MXT8R_coD6g)
 
 ### Requirements
