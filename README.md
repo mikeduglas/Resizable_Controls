@@ -18,6 +18,7 @@ Toolbar controls aren't supported at the moment as well).
 ### Demo programs
 [UI designer](https://yadi.sk/d/UuvpyS6TAaEahA)  
 [Puzzles game](https://yadi.sk/d/e05MXT8R_coD6g)
+[Window Capture](https://yadi.sk/d/DotnZt5Dp2DPqg)
 
 ### Requirements
 C6.3 and newer.
