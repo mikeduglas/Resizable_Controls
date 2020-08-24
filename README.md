@@ -24,7 +24,7 @@ Toolbar controls aren't supported at the moment as well).
 C6.3 and newer.
 
 ### Price
-$100
+$150
 
 ### Contacts
 mikeduglas@yandex.ru
