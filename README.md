@@ -2,8 +2,8 @@
 Move and resize window controls at runtime. **No flicker.**
 
 A user can move or/and resize any window control (except <del>BOX, ELLIPSE, LINE,</del> PANEL, TOOLBAR.  
-**BOX, ELLIPSE, LINE are supported now!**  
 Toolbar controls aren't supported at the moment as well).
+**BOX, ELLIPSE, LINE are supported now!**  
 
 This package contains a set of classes and a template.   
 
