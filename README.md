@@ -1,7 +1,8 @@
 # Resizable_Controls
 Move and resize window controls at runtime. **No flicker.**
 
-A user can move or/and resize any window control (except BOX, ELLIPSE, LINE, PANEL, TOOLBAR.  
+A user can move or/and resize any window control (except <del>BOX, ELLIPSE, LINE,</del> PANEL, TOOLBAR.  
+**BOX, ELLIPSE, LINE are supported now!**  
 Toolbar controls aren't supported at the moment as well).
 
 This package contains a set of classes and a template.   
@@ -14,6 +15,7 @@ This package contains a set of classes and a template.
 - set min/max size of a control
 - set limiting area
 - set snap to grid
+- supported BOX, ELLIPSE, LINE
 - save/restore controls layout
 - handle control events (left/right mouse down/up, double click, mouse move, position changed).
 
