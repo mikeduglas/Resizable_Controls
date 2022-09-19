@@ -28,9 +28,9 @@ This package contains a set of classes and a template.
 - C6.3 and newer.  
 - ABC and Clarion template chain.  
 
-### Price
-$150
-
 ### Contacts
 mikeduglas@yandex.ru  
 mikeduglas66@gmail.com
+
+
+[Buy now](https://www.clarionshop.com/checkout.cfm?pid=1656&q=1&)
