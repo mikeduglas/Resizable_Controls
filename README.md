@@ -20,9 +20,9 @@ This package contains a set of classes and a template.
 - handle control events (left/right mouse down/up, double click, mouse move, position changed).
 
 ### Demo programs
-[UI designer](https://yadi.sk/d/UuvpyS6TAaEahA)  
-[Puzzles game](https://yadi.sk/d/e05MXT8R_coD6g)  
-[Window Capture](https://yadi.sk/d/DotnZt5Dp2DPqg)  
+[UI designer](https://disk.yandex.ru/d/P1IMRyd-qZwhZg)  
+[Puzzles game](https://disk.yandex.ru/d/ujSH7rr4xQdZ0g)  
+[Window Capture](https://disk.yandex.ru/d/sNFF-X1G0oEHhg)  
 
 ### Requirements
 - C6.3 and newer.  
